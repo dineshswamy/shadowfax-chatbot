@@ -1,0 +1,58 @@
+body {
+					background-image: url('../../images/body-background.jpg');
+					background-repeat: no-repeat;
+}
+
+.container {
+	padding: 70px;
+}
+
+.row-backgrounds {
+	background-color: white;
+}
+
+.road {
+		background-image: url('../../images/road.png');
+		background-repeat: repeat-x;
+		height: 85px;
+}
+
+.shop {
+		background-image: url('../../images/shop.png');
+		background-repeat: no-repeat;
+		background-size: 100px;
+		height: 85px;
+		width: 100px;
+		position: relative;
+		left: 309px;
+		top: -37px;
+		display: inline-block;
+}
+
+.house {
+		background-image: url('../../images/house.png');
+		background-repeat: no-repeat;
+		background-size: 100px;
+		height: 85px;
+		width: 100px;
+		position: relative;
+		left: 578px;
+		top: -37px;
+		display: inline-block;
+}
+
+
+.individual-riders-info {
+	height: 85px;
+	background-color:#211f1f;
+}
+
+.chat-text {
+	font-size: 25px
+}
+
+.chat-box {
+	font-size: 25px;
+	padding: 10px;
+
+}
